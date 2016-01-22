@@ -9,7 +9,7 @@ name: The Pi Hacker
 description: Hacking with the Raspberry Pi
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:https://thepihacker.github.io/images/rasppihackicon.png
+avatar: https://thepihacker.github.io/images/rasppihackicon.png
 
 #
 # Flags below are optional
