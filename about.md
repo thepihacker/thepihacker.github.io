@@ -12,4 +12,4 @@ Raspberry Pi's can be used for several fun projects. This blog will focus on pro
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hackerofthepi@gmail.com](mailto:hackerofthepi@gmail.com)
